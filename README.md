@@ -1,1 +1,1 @@
-# AnalysisRemoteSensingImagery
+# Quantitative Analysis of Remote Sensing Imagery
